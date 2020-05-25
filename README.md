@@ -1,6 +1,6 @@
 # Dog breed quiz
 
-Dog Breed Quiz Application which gives user to knowledge about dog breeds. This application implemented in Android using java platform.
+Dog Breed Quiz Application gives user to gain knowledge about dog breeds. This application implemented in Android using java platform.
 
   - The game consists with 15 breeds
   - Each breed has 30 different images
