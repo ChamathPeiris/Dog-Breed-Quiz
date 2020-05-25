@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/</item>
+        <item>@font/acme</item>
+        <item>@font/comfortaa_light</item>
+        <item>@font/crete_round_italic</item>
+        <item>@font/kalam_bold</item>
+        <item>@font/kalam_light</item>
+        <item>@font/lalezar</item>
+        <item>@font/lora</item>
+        <item>@font/viga</item>
+    </array>
+</resources>

@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Dog Breed Quiz</string>
+    <string name="guess_the_breed">Guess The Breed</string>
+    <string name="display_the_dog">Display the dog</string>
+    <string name="select_breed">Select Breed</string>
+    <string name="selectDogBreed" />
+
+    <string-array name="breed">
+
+        <item>appenzeller</item>
+        <item>basenji</item>
+        <item>beagle</item>
+        <item>boxer</item>
+        <item>briard</item>
+        <item>chihuahua</item>
+        <item>chow</item>
+        <item>clumber</item>
+        <item>japanese_spaniel</item>
+        <item>kuvasz</item>
+        <item>labrador</item>
+        <item>lhasa</item>
+        <item>pekinese</item>
+        <item>pomeranian</item>
+        <item>rottweiler</item>
+
+    </string-array>
+
+</resources>
